@@ -1,0 +1,59 @@
+_repo: Anthem_1250
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rand, Ayn
+    aliases:
+    - O'Connor, Ayn Rand
+    - Rosenbaum, Alissa Zinovievna
+    - Rosenbaum, Alice
+    - Rand, Ain
+    birthdate: 1905
+    deathdate: 1982
+    gutenberg_agent_id: '572'
+    url: http://www.gutenberg.org/2009/agents/572
+    wikipedia: http://en.wikipedia.org/wiki/Ayn_Rand
+description: "Anthem is a dystopian fiction novella by Ayn Rand, written in 1937 and\
+  \ first published in 1938 in England. It takes place at some unspecified future\
+  \ date when mankind has entered another dark age. Technological advancement is now\
+  \ carefully planned and the concept of individuality has been eliminated.\n From\
+  \ Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1250'
+  wikidata: Q2743935
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Individuality -- Fiction'
+- !lcsh 'Men -- Psychology -- Fiction'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+- !lcsh 'Love stories'
+- !lcsh 'Psychological fiction'
+- GITenberg
+title: Anthem
+url: http://www.gutenberg.org/ebooks/1250
+wikipedia:
+- https://fi.wikipedia.org/wiki/Hymni_(pienoisromaani)
+- https://eo.wikipedia.org/wiki/Himno_(romaneto)
+- https://uk.wikisource.org/wiki/%D0%93%D1%96%D0%BC%D0%BD_(%D0%A4%D1%80%D0%B0%D0%BD%D0%BA%D0%BE,_1893)
+- https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%BB%E3%83%A0_(%E5%B0%8F%E8%AA%AC)
+- https://uk.wikiquote.org/wiki/%D0%93%D1%96%D0%BC%D0%BD_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://en.wikipedia.org/wiki/Anthem_(novella)
+- https://es.wikipedia.org/wiki/Himno_(novela)
+- https://en.wikisource.org/wiki/Anthem
+- https://bg.wikipedia.org/wiki/%D0%A5%D0%B8%D0%BC%D0%BD_(%D1%80%D0%BE%D0%BC%D0%B0%D0%BD)
+- https://sv.wikipedia.org/wiki/Lovs%C3%A5ng_(roman)
+- https://uk.wikipedia.org/wiki/%D0%93%D1%96%D0%BC%D0%BD_(%D0%BF%D0%BE%D0%B2%D1%96%D1%81%D1%82%D1%8C)
+- https://no.wikipedia.org/wiki/H%C3%B8ysang
+- https://fr.wikipedia.org/wiki/Hymne_(livre)
+- https://sq.wikipedia.org/wiki/Anthem
+- https://tr.wikipedia.org/wiki/Ben_(roman)
