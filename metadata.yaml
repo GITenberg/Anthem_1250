@@ -1,5 +1,8 @@
 _repo: Anthem_1250
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rand, Ayn
@@ -18,6 +21,8 @@ description: "Anthem is a dystopian fiction novella by Ayn Rand, written in 1937
   \ date when mankind has entered another dark age. Technological advancement is now\
   \ carefully planned and the concept of individuality has been eliminated.\n From\
   \ Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1250#Anthem
 gutenberg_bookshelf:
 - Science Fiction by Women
 - Science Fiction
